@@ -2,13 +2,12 @@
 
 int main()
 {
-	int one = 1;
 	double num1;
 	double num2;
 	char operator;
 	double output;
 	
-	while(one = 1)
+	while(1 == 1)
 	{
 		scanf("%lf %c %lf", &num1, &operator, &num2);
 
